@@ -1,6 +1,6 @@
 ## Phase 1 — Prerequisites
 
-This project deploys a **self-hosted team password manager (Passbolt CE)** on **AWS**. Before deployment, I prepared the cloud account, a local Linux VM, and (optionally) a domain for HTTPS.
+This project deploys a **self-hosted team password manager (Passbolt CE)** on **AWS**. Before deployment, I prepared the cloud account, a local Linux VM,
 
 ### 1) AWS account secured
 - Enabled **MFA** on the root account
